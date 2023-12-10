@@ -4,4 +4,4 @@
 - Users are also able to chat with each other during the game via camera + microphone. 
 - Tech stack: React, webRTC, Node.js, Express, Socket.io
 
-Link to the backend: [Backend](https://github.com/ProjectsByJackHe/multiplayer-chess-game-backend)
+Link to the backend: [Backend](https://github.com/homosapien14/chess-game-with-video-chat-backend)
