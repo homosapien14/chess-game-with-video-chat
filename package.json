@@ -7,6 +7,7 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "chess.js": "^0.10.3",
+    "dotenv": "^16.3.1",
     "konva": "6.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
