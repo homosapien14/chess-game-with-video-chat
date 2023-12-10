@@ -2,7 +2,7 @@ import io from "socket.io-client";
 import dotenv from "dotenv";
 
 dotenv.config();
-const BACKEND_URL = "http://65.2.29.114:8000";
+const BACKEND_URL = "https://video-chess-backend.onrender.com";
 const URL = BACKEND_URL;
 console.log(URL);
 
